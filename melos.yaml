@@ -1,0 +1,8 @@
+name: apk_automation_dart
+
+packages:
+  - .
+
+scripts:
+  analyze:
+    exec: dart analyze .
